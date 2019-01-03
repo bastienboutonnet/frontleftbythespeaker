@@ -1,7 +1,9 @@
 
-@media only screen and (min-width: 33.75em) {  /* 540px */
-.col-6{
-  width: 50%
+@media only screen and (min-width: 33.75em) {
+  /* 540px */
+  .col-6 {
+    width: 50%
+  }
 }
 
 @media only screen and (min-width: 720) {  /* 720px */
@@ -64,3 +66,4 @@
     /*max-width: 60rem;*/
   }
 }
+

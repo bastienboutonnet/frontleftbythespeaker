@@ -1,8 +1,3 @@
-/**
-*** SIMPLE GRID
-*** (C) ZACH COLE 2016
-**/
-
 @import url('https://fonts.googleapis.com/css?family=PT+Mono|Rubik');
 
 /* UNIVERSAL */
@@ -104,14 +99,6 @@ background-image:
 .show_full_only{
   display: none;
 }
-
-
-/*.table_wrapper{
-  display: table;
-  width: 100%;
-  height: 100%;
-  padding-top: 25%;
-}*/
 
 .text_wrapper{
   display: table-cell;
@@ -338,20 +325,21 @@ li{
 
 
 @media (min-width: 820px) {
-.row{
-  width: 100%;
-}
+  .row {
+    width: 100%;
+  }
 
-.col-6{
-  width: 50%;
-}
+  .col-6 {
+    width: 50%;
+  }
 
-.show_status{
-  display: none;
-}
+  .show_status {
+    display: none;
+  }
 
-.show_full_only{
-  display: block;
+  .show_full_only {
+    display: block;
+  }
 }
 
 

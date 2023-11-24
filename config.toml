@@ -1,4 +1,4 @@
-baseURL = "https://www.frontleftbythespeaker.nl"
+baseURL = "/"
 languageCode = "en-us"
 title = "Front Left by the Speaker"
 theme = "archie"

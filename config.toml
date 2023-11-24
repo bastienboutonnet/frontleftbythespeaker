@@ -1,0 +1,51 @@
+baseURL = "https://www.frontleftbythespeaker.nl"
+languageCode = "en-us"
+title = "Front Left by the Speaker"
+theme = "archie"
+# googleAnalytics = "G-2D14KHT48Y"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=3 # articles per page
+
+[params]
+	mode="light" # color-mode → light,dark or auto
+	useCDN=false # don' use CDNs for fonts and icons, instead serve them locally.
+
+# Social Tags
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+# TODO: check that this is actually the correct URL.
+url = "https://www.instagram.com/frontleftbythespeaker/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/homepage"
+weight = 1
+
+[[menu.main]]
+name = "Radio"
+url = "/radio"
+weight = 2
+
+#[[menu.main]]
+#name = "Radio Archive"
+#url = "/radio_archive"
+#weight = 3
+
+#[[menu.main]]
+#name = "Posts"
+#url = "/posts"
+#weight = 3
+
+[[menu.main]]
+name = "About Us"
+url = "/about"
+weight = 4

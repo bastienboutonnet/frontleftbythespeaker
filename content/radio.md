@@ -17,5 +17,5 @@ carro/chewy/bop
 ### 19:00 - 20:00: [Accuraat](https://www.instagram.com/accuraat_crisp_sandwich/)
 Other half of Front Left by the Speaker
 
-Explore sonic realms with Crisp Sandwich featuring a blend of breakbeat, garage, and drum n bass, oscillating between introspective melodies and cerebral, energetic beats.
+Explore sonic realms with Accuraat featuring a blend of breakbeat, garage, and drum n bass, oscillating between introspective melodies and cerebral, energetic beats.
 

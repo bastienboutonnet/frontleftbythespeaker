@@ -3,7 +3,6 @@ title: "Radio"
 date: 2023-12-13T08:00:00+01:00
 draft: false
 ---
-We're offline now, come back later, or sign up to be notified.
 <!--Placeholder offline video-->
 {{< youtube id="bbYbiMc-Glc" autoplay="true">}}
 ## Timetable - December 13th 2023

@@ -4,7 +4,7 @@ date: 2023-12-13T08:00:00+01:00
 draft: false
 ---
 <!--Placeholder offline video-->
-{{< youtube id="bbYbiMc-Glc" autoplay="true">}}
+{{< youtube id="GAr3okRa7nQ" autoplay="true">}}
 ## Timetable - December 13th 2023
 ### 18:00 - 19:00: [DJ Pastilha](https://www.instagram.com/renatolas/)
 10pm driving back home cassette vibes

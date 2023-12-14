@@ -35,10 +35,10 @@ name = "Radio"
 url = "/radio"
 weight = 2
 
-#[[menu.main]]
-#name = "Radio Archive"
-#url = "/radio_archive"
-#weight = 3
+[[menu.main]]
+name = "Radio Archive"
+url = "/radio_archive"
+weight = 3
 
 #[[menu.main]]
 #name = "Posts"

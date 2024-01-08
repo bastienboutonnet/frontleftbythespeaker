@@ -8,6 +8,12 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 <!--Placeholder offline video-->
-## Next Show: January 10th 2024
-Programme to be announced soon
+## Upcoming Show: **HUNDI** / January 10, 2024 / 7-8PM
+For this occasion, you can expect a slower mix full of cerebral vocals, glitchy synths and dubby baselines - keywords are post-human esoteric ritual
+
+HUNDI's selections bite into contemporary futuristic soundscapes full of textured rhythms and harmonious keys, showcasing a variety of genres and a captivating presence.
+
+**Links:**
+- [Instagram](https://www.instagram.com/hundi___/)
+
 

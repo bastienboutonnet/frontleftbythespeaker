@@ -14,6 +14,7 @@ paginate=3 # articles per page
 [params]
 	mode="light" # color-mode → light,dark or auto
 	useCDN=false # don' use CDNs for fonts and icons, instead serve them locally.
+	Description="Website of Front Left by the Speaker music collective, label and radio"
 
 # Social Tags
 

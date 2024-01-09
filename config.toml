@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.frontleftbythespeaker.nl/"
 languageCode = "en-us"
 title = "Front Left by the Speaker"
 theme = "archie"
@@ -11,6 +11,11 @@ pygmentscodefencesguesssyntax = true
 
 paginate=3 # articles per page
 enableRobotsTXT = true
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
 
 [params]
 	mode="light" # color-mode → light,dark or auto

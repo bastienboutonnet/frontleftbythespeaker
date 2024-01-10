@@ -22,5 +22,5 @@ Walid’s continually pushes the boundaries of genre and embraces the freedom of
 
 
 **Links:**
-- [Instagram](https://soundcloud.com/wallacemelad)
+- [SoundCloud](https://soundcloud.com/wallacemelad)
 

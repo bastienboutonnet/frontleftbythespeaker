@@ -8,6 +8,7 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 ## Upcoming Show: Boogie Mind / January 17, 2024 / 6-8PM
+{{< youtube id="GMNKhn0PdgI" autoplay="true">}}
 The show will take a focus on a spectrum of music I been exploring lately ranging between acid dub/ jungle and Tech.
 
 **Genres:**

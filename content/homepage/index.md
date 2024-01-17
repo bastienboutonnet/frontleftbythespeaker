@@ -8,5 +8,6 @@ draft: false
 
 ## THE SOCIALS
 - YouTube: [@frontleftbythespeaker](https://www.youtube.com/@frontleftbythespeaker/streams)
+- SoundCloud: [@frontleftbythespeaker](https://soundcloud.com/frontleftbythespeaker)
 - Mixcloud: [@frontleftbythespeaker](https://www.mixcloud.com/frontleftbythespeaker/)
 - Instagram: [@frontleftbythespeaker](https://www.instagram.com/frontleftbythespeaker/)

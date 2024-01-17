@@ -3,11 +3,11 @@ title: "Radio"
 date: 2023-12-14T07:00:00+01:00
 draft: false
 ---
-We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
+<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
 
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
-## Upcoming Show: Boogie Mind / January 17, 2024 / 6-8PM
+## Live Now: Boogie Mind / January 17, 2024 / 6-8PM
 {{< youtube id="GMNKhn0PdgI" autoplay="true">}}
 
 The show will take a focus on a spectrum of music I been exploring lately ranging between acid dub/ jungle and Tech.

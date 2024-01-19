@@ -2,7 +2,7 @@ baseURL = "https://www.frontleftbythespeaker.nl/"
 languageCode = "en-us"
 title = "Front Left by the Speaker"
 theme = "archie"
-# googleAnalytics = "G-2D14KHT48Y"
+googleAnalytics = "G-JDLG1PNGXV"
 
 # Code Highlight
 pygmentsstyle = "monokai"

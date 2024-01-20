@@ -22,6 +22,9 @@ enableRobotsTXT = true
 	useCDN=false # don' use CDNs for fonts and icons, instead serve them locally.
 	Description = "Website of Front Left by the Speaker music collective, label and radio"
 
+[params.meta]
+favicon = true
+
 # Social Tags
 
 [[params.social]]

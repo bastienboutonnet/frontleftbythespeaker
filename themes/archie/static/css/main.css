@@ -2,7 +2,7 @@
 :root {
   --maincolor: rgb(235,92,132);
   /* --maincolor: red; */
-  --bordercl: rebeccapurple;
+  --bordercl: rgb(235,92,132);
   --callouctcolor: dodgerblue;
   --hovercolor:rgb(235,92,132);
   --darkMaincolor: #50fa7b;

@@ -1,13 +1,22 @@
 ---
 title: "Radio"
-date: 2024-01-17T07:00:00+01:00
+date: 2024-02-13T07:00:00+01:00
 draft: false
 ---
 We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
 
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
-## Upcoming Show: February 14, 2024 / B2B of Love
 <!--{{< youtube id="GMNKhn0PdgI" autoplay="true">}}-->
 
-More info soon
+## Upcoming Show: February 14, 2024 / Valentine's special - B2B of Love
+### Lanato Soundsystem
+Lovers special
+
+### Hundi & Crisp Sandwich
+Join us for a special mix featuring the dynamic duo of Hundi & Crisp Sandwich, going back to back
+in celebration of our love. Together, we bring a shared passion for rhythmic beats, often exploring
+unconventional genre combinations and showcasing their love for uplifting brain teasers. All with a
+sprinkle of emotion, sensitivity, and an undeniable energy. Today's show pays tribute to our bubble,
+inviting listeners into the vibrant world we've created. Tune in for an exploration of rhythm, emotion,
+and the uncharted corners of our musical minds.*

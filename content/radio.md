@@ -14,13 +14,9 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 Today we celebrate love and for the occasion we invite Front Left by the Speaker
 founders and their partners for two back to backs of love.
 
-### Lanato Soundsystem - 18:00 - 19:00
-{{< youtube id="eabwU4ZpQtQ" autoplay="true">}}
-
-Lovers special
 
 ### Hundi & Crisp Sandwich - 19:00 - 20:00
-<!--{{< youtube id="6NZ06jHDnEU" autoplay="true">}}-->
+{{< youtube id="6NZ06jHDnEU" autoplay="true">}}
 
 Join us for a special mix featuring the dynamic duo of Hundi & Crisp Sandwich, going back to back
 in celebration of our love. Together, we bring a shared passion for rhythmic beats, often exploring
@@ -28,3 +24,8 @@ unconventional genre combinations and showcasing their love for uplifting brain 
 sprinkle of emotion, sensitivity, and an undeniable energy. Today's show pays tribute to our bubble,
 inviting listeners into the vibrant world we've created. Tune in for an exploration of rhythm, emotion,
 and the uncharted corners of our musical minds.*
+
+### Lanato Soundsystem - 18:00 - 19:00
+{{< youtube id="eabwU4ZpQtQ" autoplay="true">}}
+
+Lovers special

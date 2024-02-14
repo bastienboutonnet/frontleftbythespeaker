@@ -10,10 +10,14 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 <!--{{< youtube id="GMNKhn0PdgI" autoplay="true">}}-->
 
 ## Upcoming Show: February 14, 2024 / Valentine's special - B2B of Love
-### Lanato Soundsystem
+### Lanato Soundsystem - 18:00 - 19:00
+<!--{{< youtube id="eabwU4ZpQtQ" autoplay="true">}}-->
+
 Lovers special
 
-### Hundi & Crisp Sandwich
+### Hundi & Crisp Sandwich - 19:00 - 20:00
+<!--{{< youtube id="6NZ06jHDnEU" autoplay="true">}}-->
+
 Join us for a special mix featuring the dynamic duo of Hundi & Crisp Sandwich, going back to back
 in celebration of our love. Together, we bring a shared passion for rhythmic beats, often exploring
 unconventional genre combinations and showcasing their love for uplifting brain teasers. All with a

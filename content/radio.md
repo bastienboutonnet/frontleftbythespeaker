@@ -15,7 +15,7 @@ Today we celebrate love and for the occasion we invite Front Left by the Speaker
 founders and their partners for two back to backs of love.
 
 ### Lanato Soundsystem - 18:00 - 19:00
-<!--{{< youtube id="eabwU4ZpQtQ" autoplay="true">}}-->
+{{< youtube id="eabwU4ZpQtQ" autoplay="true">}}
 
 Lovers special
 

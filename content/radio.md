@@ -10,6 +10,10 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 <!--{{< youtube id="GMNKhn0PdgI" autoplay="true">}}-->
 
 ## Upcoming Show: February 14, 2024 / Valentine's special - B2B of Love
+
+Today we celebrate love and for the occasion we invite Front Left by the Speaker
+founders and their partners for two back to backs of love.
+
 ### Lanato Soundsystem - 18:00 - 19:00
 <!--{{< youtube id="eabwU4ZpQtQ" autoplay="true">}}-->
 

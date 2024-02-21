@@ -8,23 +8,22 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 
-## Upcoming Show: February 21 / silver pearl (she/her) / 8:30-9:30PM
-{{< youtube id="k_RKqnv69Gc" autoplay="true">}}
+## Upcoming Show: February 28 / DJ Tracksuit (he/him) / 6-7PM
+<!--{{< youtube id="k_RKqnv69Gc" autoplay="true">}}-->
+Hour of Power - a show where I play music that I play in clubs. Usually around 128bpm.
 
-🩷
+**About DJ Tracksuit**
 
-**About silver pearl:**
+Find him on the dancefloor with his (self-proclaimed) great dance moves or in the booth, mixing records at 
+listening bars and clubs all around Europe. DJ Tracksuit’s sound travels through the grooves and rhythms of
+the African diaspora, taking you to dizzying heights of Spiritual Jazz, heavy lows of Dub, Reggae and Deep House,
+then twists you into a joyous state with Zouk and Disco. 
 
-silver pearl is a Bratislava-born DJ currently based in Amsterdam. Her genre-defying selections invite
-to explore the labyrinth of sound and our own complexities. 
-Through deeply resonating basslines, her selections shine in myriad ways, just as pearls do.
+[SoundCloud](https://soundcloud.com/deejaytracksuit88)
+[Instagram](https://instagram.com/deejaytracksuit88)
 
-[SoundCloud](https://soundcloud.com/silver_pearl)
-[Instagram](https://www.instagram.com/__silverpearl/)
-[Website](https://silverpearl.xyz/)
-
-**Genres:**
- - bass
- - experimental
- - dubstep
- - deconstructed
+**Genres**
+- house
+- disco
+- dub
+- carribean

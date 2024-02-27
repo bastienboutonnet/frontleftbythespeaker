@@ -9,7 +9,8 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 
 
 ## Upcoming Show: February 28 / DJ Tracksuit (he/him) / 6-7PM
-<!--{{< youtube id="k_RKqnv69Gc" autoplay="true">}}-->
+{{< youtube id="PxAotJwM24c" autoplay="true">}}
+
 Hour of Power - a show where I play music that I play in clubs. Usually around 128bpm.
 
 **About DJ Tracksuit**

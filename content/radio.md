@@ -9,7 +9,8 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 
 
 ## Upcoming Show: Popsneverdrops (she/her) / March 08, 2024 / International Women's Day Special / 6-7PM
-<!--{{< youtube id="PxAotJwM24c" autoplay="true">}}-->
+{{< youtube id="ncrQGcFhHhY" autoplay="true">}}
+
 Celebration of International Women's Day with a DJ set featuring Popsneverdrops' favorite powerful female vocals, an ode to the strength and resilience of women. Expect some shout-outs!
 
 **About Popsneverdrops**

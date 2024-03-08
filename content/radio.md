@@ -3,12 +3,12 @@ title: "Radio"
 date: 2024-02-20T07:00:00+01:00
 draft: false
 ---
-We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
+<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
 
-Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
+<!--Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>-->
 
 
-## Upcoming Show: Popsneverdrops (she/her) / March 08, 2024 / International Women's Day Special / 6-7PM
+## Live Now: Popsneverdrops (she/her) / March 08, 2024 / International Women's Day Special / 6-7PM
 {{< youtube id="ncrQGcFhHhY" autoplay="true">}}
 
 Celebration of International Women's Day with a DJ set featuring Popsneverdrops' favorite powerful female vocals, an ode to the strength and resilience of women. Expect some shout-outs!

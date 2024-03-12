@@ -9,11 +9,13 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 
 
 ## Upcoming Show: Women at work (she/her) / March 13, 2024 / 6-7PM
-<!--{{< youtube id="ncrQGcFhHhY" autoplay="true">}}-->
+{{< youtube id="6Uon3gCBgUI" autoplay="true">}}
+
 Playing some lighter and more atmospheric tunes for the boys this Wednesday, or at least, thats the plan! 
 
 
 **About Women at work**
+
 Esme, from British duo Women at work, brings a vibrant and genre-defying experience to the dance floor, blending breaks, garage, jungle, and anything with bass. Based in Amsterdam, she has played at Sexyland World, Radio Radio, A'DAM tower, Operator Radio and more.
 
 [Instagram](https://www.instagram.com/women.at.work_/)

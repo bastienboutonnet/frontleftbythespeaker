@@ -1,6 +1,6 @@
 ---
 title: "Radio"
-date: 2024-02-20T07:00:00+01:00
+date: 2024-03-12T07:00:00+01:00
 draft: false
 ---
 We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
@@ -8,18 +8,19 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 
-## Last Stream: Popsneverdrops (she/her) / March 08, 2024 / International Women's Day Special / 6-7PM
-{{< youtube id="ncrQGcFhHhY" autoplay="true">}}
+## Upcoming Show: Women at work (she/her) / March 13, 2024 / 6-7PM
+<!--{{< youtube id="ncrQGcFhHhY" autoplay="true">}}-->
+Playing some lighter and more atmospheric tunes for the boys this Wednesday, or at least, thats the plan! 
 
-Celebration of International Women's Day with a DJ set featuring Popsneverdrops' favorite powerful female vocals, an ode to the strength and resilience of women. Expect some shout-outs!
 
-**About Popsneverdrops**
-Popsneverdrops may not be a real DJ but if necessary, she'll deliver. Her selection varies but she's always keeping it soulful and uplifting, no matter if it's soul, disco or house music.
+**About Women at work**
+Esme, from British duo Women at work, brings a vibrant and genre-defying experience to the dance floor, blending breaks, garage, jungle, and anything with bass. Based in Amsterdam, she has played at Sexyland World, Radio Radio, A'DAM tower, Operator Radio and more.
 
-[Instagram](https://www.instagram.com/popsneverdrops/)
+[Instagram](https://www.instagram.com/women.at.work_/)
+[SoundCloud](https://soundcloud.com/wmnatwrk)
 
 **Genres:**
-- soul
-- disco
-- house
+- electric
+- ambient
+- dub
 

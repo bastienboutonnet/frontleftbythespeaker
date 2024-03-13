@@ -3,12 +3,12 @@ title: "Radio"
 date: 2024-03-12T07:00:00+01:00
 draft: false
 ---
-We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
+<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
 
-Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
+<!--Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>-->
 
 
-## Upcoming Show: Women at work (she/her) / March 13, 2024 / 6-7PM
+## Live Now: Women at work (she/her) / March 13, 2024 / 6-7PM
 {{< youtube id="6Uon3gCBgUI" autoplay="true">}}
 
 Playing some lighter and more atmospheric tunes for the boys this Wednesday, or at least, thats the plan! 

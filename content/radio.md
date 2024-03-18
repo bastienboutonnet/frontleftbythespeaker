@@ -1,28 +1,26 @@
 ---
 title: "Radio"
-date: 2024-03-12T07:00:00+01:00
+date: 2024-03-18T07:00:00+01:00
 draft: false
 ---
-<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
+We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
 
-<!--Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>-->
-
-
-## Live Now: Women at work (she/her) / March 13, 2024 / 6-7PM
-{{< youtube id="6Uon3gCBgUI" autoplay="true">}}
-
-Playing some lighter and more atmospheric tunes for the boys this Wednesday, or at least, thats the plan! 
+Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 
-**About Women at work**
+## Upcoming Show: Just Chris / March 20, 2024 / 7-8PM
+{{< youtube id="3KsTNtuUqAY" autoplay="true">}}
 
-Esme, from British duo Women at work, brings a vibrant and genre-defying experience to the dance floor, blending breaks, garage, jungle, and anything with bass. Based in Amsterdam, she has played at Sexyland World, Radio Radio, A'DAM tower, Operator Radio and more.
+I plan to do a deep dive into to my favourite 90s records; from prog, trance and all-round high energy bangers.
+
+**About Just Chris:**
+Chris is a living room DJ, popular almost exclusively among friends at afters. With a keen ear and knowledge of both the modern and the classics, he hopes to bring his crafted taste to the airwaves. 
 
 [Instagram](https://www.instagram.com/women.at.work_/)
-[SoundCloud](https://soundcloud.com/wmnatwrk)
 
 **Genres:**
-- electric
-- ambient
-- dub
+- prog
+- trance
+- house
+- 90s
 

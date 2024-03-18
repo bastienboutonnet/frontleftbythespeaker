@@ -16,7 +16,7 @@ I plan to do a deep dive into to my favourite 90s records; from prog, trance and
 **About Just Chris:**
 Chris is a living room DJ, popular almost exclusively among friends at afters. With a keen ear and knowledge of both the modern and the classics, he hopes to bring his crafted taste to the airwaves. 
 
-[Instagram](https://www.instagram.com/women.at.work_/)
+[Instagram](https://www.instagram.com/chriisssy/)
 
 **Genres:**
 - prog

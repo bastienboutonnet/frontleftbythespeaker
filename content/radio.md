@@ -1,6 +1,6 @@
 ---
 title: "Radio"
-date: 2024-03-18T07:00:00+01:00
+date: 2024-03-24T07:00:00+01:00
 draft: false
 ---
 We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
@@ -8,19 +8,14 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 
-## Latest Show: Just Chris / March 20, 2024 / 7-8PM
-{{< youtube id="3KsTNtuUqAY" autoplay="true">}}
+## Upcoming Show: Shady Lady (she/her/lady) / March 27, 2024 / 6-7PM
+{{< youtube id="wY1Ux-Mopd0" autoplay="true">}}
 
-I plan to do a deep dive into to my favourite 90s records; from prog, trance and all-round high energy bangers.
+Shady Lady creeps around your house, trickling into your ears with floor filling treats and chunky beats. This Aussie DJ’s selection will make you remember the definition of dancing whether you like it or not.
 
-**About Just Chris:**
-Chris is a living room DJ, popular almost exclusively among friends at afters. With a keen ear and knowledge of both the modern and the classics, he hopes to bring his crafted taste to the airwaves. 
+**About Shady Lady:**
+Shady Lady, a Sydney born and Amsterdam based DJ lays her heart out on the decks for all to see. With a background in theatre and performance her shows are heavily shameless and entertaining. Don’t be fooled by her presentation though; her knowledge of Queer and Black music history is forever present in her disco and house selection.
 
-[Instagram](https://www.instagram.com/chriisssy/)
 
-**Genres:**
-- prog
-- trance
-- house
-- 90s
-
+[Instagram](https://www.instagram.com/shadylady_bec/)
+[SoundCloud](https://on.soundcloud.com/DZmYg4kaUfqq4xJp8)

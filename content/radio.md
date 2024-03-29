@@ -9,7 +9,7 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 
 
 ## Upcoming Show: Shady Lady (she/her/lady) / April 03, 2024 / 6-7PM
-{{< youtube id="lxNETEwXOAw" autoplay="true">}}
+{{< youtube id="qRbbRC3oWD4" autoplay="true">}}
 
 Shady Lady creeps around your house, trickling into your ears with floor filling treats and chunky beats. This Aussie DJ’s selection will make you remember the definition of dancing whether you like it or not.
 

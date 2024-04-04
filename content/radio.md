@@ -3,12 +3,12 @@ title: "Radio"
 date: 2024-03-24T07:00:00+01:00
 draft: false
 ---
-<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
+We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
 
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
 
-## Upcoming Show: Shady Lady (she/her/lady) / April 03, 2024 / 6-7PM
+## Last Show: Shady Lady (she/her/lady) / April 03, 2024 / 6-7PM
 {{< youtube id="qRbbRC3oWD4" autoplay="true">}}
 
 Shady Lady creeps around your house, trickling into your ears with floor filling treats and chunky beats. This Aussie DJ’s selection will make you remember the definition of dancing whether you like it or not.

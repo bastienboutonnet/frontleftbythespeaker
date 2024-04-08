@@ -9,8 +9,7 @@ Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmai
 
 
 ## Upcoming Show: Will Sharp (he/him) / April 10, 2024 / 6-7:30PM
-<!--{{< youtube id="qRbbRC3oWD4" autoplay="true">}}-->
-**Stream Link To Come Soon**
+{{< youtube id="cVoWRJg_F4U" autoplay="true">}}
 
 Treating you to a variety of (mostly) 1989/early 90s house gems from Italy, New York, and Toronto, all dripping with pure nostalgic beauty - including a few of my favourite records and discoveries I've copped this year (so far).
 

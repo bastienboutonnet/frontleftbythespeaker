@@ -7,22 +7,7 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
-## Last Show: Will Sharp (he/him) / April 10, 2024 / 6-7:30PM
-{{< youtube id="cVoWRJg_F4U" autoplay="true">}}
-*Feel free to open the stream in YouTube and chat live with us!*
-
-Treating you to a variety of (mostly) 1989/early 90s house gems from Italy, New York, and Toronto, all dripping with pure nostalgic beauty - including a few of my favourite records and discoveries I've copped this year (so far).
-
-**About Will Sharp:**
-
-Heavily inspired by the sounds of various Italian clubs from back in the day, Will has an insatiable appetite for digging up forgotten early 90s underground house and downtempo gems, from the deep and ethereal to the euphoric and pumping.
-
-[SoundCloud](https://soundcloud.com/wsharp7)
-[YouTube](https://www.youtube.com/channel/UC_bcl-4rkHChZ4WnNevRZ_g)
-[Instagram](https://www.instagram.com/will.ik.ben1/)
-
-**Genres:**
-- house
-- deep house
-- tribal house
-- breakbeat
+## Upcoming Show: TBD / April 24, 2024 / 6-7PM
+<!--{{< youtube id="cVoWRJg_F4U" autoplay="true">}}-->
+<!--*Feel free to open the stream in YouTube and chat live with us!*-->
+Info coming soon.

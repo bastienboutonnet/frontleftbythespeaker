@@ -19,6 +19,9 @@ The love child of acid breaks and a weird obsession for chrome teeth, fangs does
 **About NEEDA VEEZA:**
 NEEDA VEEZA's sets are characterized by a blend of bangers, slappers, rollers, chuggers and the occasional chunter. He usually finds a way to get the crowd going but don't be surprised when he drops some Gregorian chanting and absolutely clears the dancefloor.
 
+[fangs SoundCloud](https://soundcloud.com/meeuwes-van-dijk)
+[NEEDA VEEAZA Instagram](https://www.instagram.com/needa.veeza/?hl=en)
+
 **Genres:**
 - Dub
 - Breaks

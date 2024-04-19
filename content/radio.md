@@ -7,23 +7,8 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 
 Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
 
-## Upcoming Show: fangs & NEEDA VEEZA / April 17, 2024 / 5:30-6:30PM
-{{< youtube id="JrAMjOAU5zM" autoplay="true">}}
-*Feel free to open the stream in YouTube and chat live with us!*
+## Upcoming Show: TBD
+<!--fangs & NEEDA VEEZA / April 17, 2024 / 5:30-6:30PM-->
+<!--{{< youtube id="JrAMjOAU5zM" autoplay="true">}}-->
+<!--*Feel free to open the stream in YouTube and chat live with us!*-->
 
-Jumping from one shared obsession to another, this show will yoink, sploink and occasionally wub. Strap in, 'cause even we don't know where we're going.
-
-**About fangs:**
-The love child of acid breaks and a weird obsession for chrome teeth, fangs doesn't focus on one genre for long. Embrace surprise and stay on your feet, there's never a dull moment with fangs.
-
-**About NEEDA VEEZA:**
-NEEDA VEEZA's sets are characterized by a blend of bangers, slappers, rollers, chuggers and the occasional chunter. He usually finds a way to get the crowd going but don't be surprised when he drops some Gregorian chanting and absolutely clears the dancefloor.
-
-[fangs SoundCloud](https://soundcloud.com/meeuwes-van-dijk)
-[NEEDA VEEAZA Instagram](https://www.instagram.com/needa.veeza/?hl=en)
-
-**Genres:**
-- Dub
-- Breaks
-- Acid
-- Fungal

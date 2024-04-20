@@ -11,6 +11,5 @@ At "Front Left by the Speaker", we aren't just creators or curators, but first a
 ## Let's build something together
 We're super open to collaboration, having you on the radio show or just to have a chat. Here are some ways you can participate. We'll answer absolutely every genuine message.
 
-- For guest mixes or programming inquiries: <frontleftbythespeaker+prog@gmail.com>
-- To book one of our residents: <frontleftbythespeaker+bookings@gmail.com>
-- For anything else: <frontleftbythespeaker+general@gmail.com>
+- For guest mixes or programming inquiries: <radio@frontleftbythespeaker.nl>
+- To book one of our residents: <bookings@frontleftbythespeaker.nl>

@@ -5,7 +5,7 @@ draft: false
 ---
 We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
 
-Want to play on the radio? Send us a message at <frontleftbythespeaker+prog@gmail.com>
+Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
 ## Upcoming Show: TBD
 <!--fangs & NEEDA VEEZA / April 17, 2024 / 5:30-6:30PM-->

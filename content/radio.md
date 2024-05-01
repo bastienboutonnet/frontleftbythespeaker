@@ -7,7 +7,7 @@ draft: false
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Upcoming Show: Stëfän Dänïëls (he/him) / May 1, 2024 / 6-7PM
+## Last Show: Stëfän Dänïëls (he/him) / May 1, 2024 / 6-7PM
 <!--fangs & NEEDA VEEZA / April 17, 2024 / 5:30-6:30PM-->
 {{< youtube id="5bJ6OcemDSQ" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*

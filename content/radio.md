@@ -3,28 +3,25 @@ title: "Radio"
 date: 2024-04-29T07:00:00+01:00
 draft: false
 ---
-<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
+We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Last Show: Stëfän Dänïëls (he/him) / May 1, 2024 / 6-7PM
-<!--fangs & NEEDA VEEZA / April 17, 2024 / 5:30-6:30PM-->
-{{< youtube id="5bJ6OcemDSQ" autoplay="true">}}
+## Last Show: Omkesizze (he/him) / May 1, 2024 / 6-7PM
+{{< youtube id="HYyHRKYEufc" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*
 
-**About the Show**
+**About the show:**
+Stay on your feet while your mind takes flight, going through the motions infused by the potions, are you still following? Then stop, this is your journey. From the back valley to the stage fences, end up in that sweet spot, yeah you know where.
 
-Although I’ve been a sucker for fast breaks, deep bass and groovy vocals since my first raves, I’ve never taken the chance to craft a set around my love for jungle. Growing up in the south, I was lucky enough to experience the full energy of this genre blasting through the sound systems of Zinloos Geluid and was lucky enough to have the Planet Jungle crew bring Roni size to my small hometown. For this radio show I’ll set the record straight with some old favourites and new gems.
+**About Omkesizze:**
+Om-who? Yeah, I know.
 
-**About Stëfän Dänïëls:**
 
-Stëfän Dänïëls is known for his visual work for the likes of Dektmantel, Fact Magazine, Tresor and Albert van Abbe, but for the past few years he’s bringing his creativity to the decks. With his Amsterdam based collective Etape, he’s dedicated to creating club experiences that bridge genres, cities and crowds with a touch of fun.
-
-[Instagram](https://www.instagram.com/stefandaniels)
+[Instagram](https://www.instagram.com/omkesizze.audio)
 
 **Genres:**
-- Jungle
-- Drum and Bass
-- Breaks
-- Experimental
-
+- House 
+- Breaks 
+- Bass 
+- Beats

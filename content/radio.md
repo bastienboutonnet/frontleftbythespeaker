@@ -7,7 +7,7 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Last Show: Omkesizze (he/him) / May 1, 2024 / 6-7PM
+## Upcoming Show: Omkesizze (he/him) / May 1, 2024 / 6-7PM
 {{< youtube id="HYyHRKYEufc" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*
 

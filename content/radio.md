@@ -7,21 +7,22 @@ draft: false
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Live Now: Omkesizze (he/him) / May 1, 2024 / 6-7PM
-{{< youtube id="HYyHRKYEufc" autoplay="true">}}
+## Upcoming Show: Kray Atief (he/him) / May 15, 2024 / 6-7PM
+{{< youtube id="cBqJ6j0CcU8" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*
 
 **About the show:**
-Stay on your feet while your mind takes flight, going through the motions infused by the potions, are you still following? Then stop, this is your journey. From the back valley to the stage fences, end up in that sweet spot, yeah you know where.
+Welcome to TLC Therapy! Dive into heartwarming electronic music that heals. No typical DJ set here; it's an emotional journey blending spoken word, ambient, leftfield, and experimental tunes. Tune in and feel the love!
 
-**About Omkesizze:**
-Om-who? Yeah, I know.
+**About Kray Atief:**
+Meet Kray Atief fka Unsafespaces, Amsterdam's forward-thinking DJ extraordinaire. With residencies on Komrad and Voices Radio, he crafts unique sonic narratives, each show a journey blending creative mixing and eclectic selections.
 
 
-[Instagram](https://www.instagram.com/omkesizze.audio)
+[SoundCloud](https://soundcloud.com/unsafespaces_android_c17)
+[Instagram](https://www.instagram.com/kray.atief)
 
 **Genres:**
-- House 
-- Breaks 
-- Bass 
-- Beats
+- experimental
+- leftfield
+- ambient
+- dub

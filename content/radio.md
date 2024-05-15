@@ -7,7 +7,7 @@ draft: false
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Upcoming Show: Kray Atief (he/him) / May 15, 2024 / 6-7PM
+## Live Now: Kray Atief (he/him) / May 15, 2024 / 6-7PM
 {{< youtube id="cBqJ6j0CcU8" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*
 

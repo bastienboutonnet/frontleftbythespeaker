@@ -20,8 +20,8 @@ ABE crafts mesmerizing rhythmical sets blending Amapiano, Gqom, Hard Drum, Decon
 [Instagram](https://www.instagram.com/abe_rcrombie)
 
 **Genres:**
-    - Amapiano
-    - Gqom
-    - Hard Drum
-    - Deconstructed
+  - Amapiano
+  - Gqom
+  - Hard Drum
+  - Deconstructed
 

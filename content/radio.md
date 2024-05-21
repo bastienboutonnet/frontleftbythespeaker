@@ -7,9 +7,9 @@ We're offline now, you can check out the [radio archive]({{< ref "/radio_archive
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Upcoming Show: ABE (he/him) / May 22, 2024 / 6-8PM
-<!--{{< youtube id="cBqJ6j0CcU8" autoplay="true">}}-->
-<!--*Feel free to open the stream in YouTube and chat live with us!*-->
+## Upcoming Show: ABE (he/him) / May 15, 2024 / 6-7PM
+{{< youtube id="7Xq_ZhUgINQ" autoplay="true">}}
+*Feel free to open the stream in YouTube and chat live with us!*
 
 **About the show:**
 Join us for a rhythmical remedy featuring genres like Amapiano, Gqom, Hard Drum, and Deconstructed. Let's sway away on some hypnotizing cadences with ABE 🌀

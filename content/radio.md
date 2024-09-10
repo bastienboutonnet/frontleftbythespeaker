@@ -7,19 +7,22 @@ draft: false
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Upcoming Show: leo.nerd (he) / May 29, 2024 / 6-7PM
-{{< youtube id="IL7DMvry0Ws" autoplay="true">}}
+## Upcoming Show: moe. (he) / September 11, 2024 / 6-8PM
+{{< youtube id="P_MIncgrwtI" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*
 
 **About the show:**
-Some tracks that put me in the zone lately. Trying to take my time to focus on textures and colors, taking the scenic route.
+VIBRATIO)))NS is a journey through multiple sounds & genres. For this edition the 2nd hour will be a Peven Everett special.
 
-**About leo.nerd:**
-leo.nerd is a creative technologist and audiovisual designer who lives in Brooklyn. He creates immersive and generative multimedia experiences in architectural spaces. His musical influences span classical and electronic and mix instrumental, vocal, and software.
+**About moe.:**
+As a party lover, dancer, dj, radio host & gathering organiser; I'm forever inspired/in love with the communal joy manifested through music & on dancefloors.
 
-[Instagram](https://www.instagram.com/leo.nerd)
+[Instagram](https://www.instagram.com/moe.elamin/)
+[SoundCloud](https://soundcloud.com/moeelamin)
 
 **Genres:**
-  - Ambient
-  - leftfield techno
+  - jazz
+  - house
+  - electronic
+  - zouk
 

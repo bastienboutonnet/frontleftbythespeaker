@@ -3,11 +3,11 @@ title: "Radio"
 date: 2024-04-29T07:00:00+01:00
 draft: false
 ---
-<!--We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.-->
+We're offline now, you can check out the [radio archive]({{< ref "/radio_archive" >}}) in the meantime.
 
 Want to play on the radio? Send us a message at <radio@frontleftbythespeaker.nl>
 
-## Upcoming Show: moe. (he/him) / September 14, 2024 / 4-6PM
+## Last Show: moe. (he/him) / September 14, 2024 / 4-6PM
 {{< youtube id="P_MIncgrwtI" autoplay="true">}}
 *Feel free to open the stream in YouTube and chat live with us!*
 

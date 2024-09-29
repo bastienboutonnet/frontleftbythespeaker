@@ -135,12 +135,16 @@ pre code {
 
 /* Containers */
 .content {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
   margin-bottom: 4em;
   margin-left: auto;
   margin-right: auto;
   max-width: 800px;
-  padding: 0 1ch;
   word-wrap: break-word;
+  /* Ensure no restrictions on overflow */
+  overflow: visible; /* Allows content to overflow */
 }
 
 /* Header */
@@ -332,9 +336,9 @@ svg {
 }
 
 body, html {
-  height: 100%;
-  overflow: hidden;
-}
+  height: auto; /* Allow body to expand */
+  min-height: 100%; /* Ensure it fills the viewport */
+  overflow-x: hidden; /* Prevent horizontal scrolling, but allow vertical */}
 
 /* Background behind content */
 .background {

@@ -360,19 +360,19 @@ body, html {
   background-color: #8e44ad; /* Purple shade for the shapes */
 }
 
-/* Larger organic blob-like shapes */
+/* Organic blob-like shapes */
 .shape-1 {
-  width: 500px;
-  height: 500px;
+  width: 300px;
+  height: 300px;
   border-radius: 50% 20%; /* Organic blob-like shape */
   top: 10%;
-  left: 20%;
+  left: 10%;
   animation-delay: 0s;
 }
 
 .shape-2 {
-  width: 600px;
-  height: 450px;
+  width: 400px;
+  height: 300px;
   border-radius: 50% 40%; /* Organic ellipse shape */
   top: 40%;
   left: 70%;
@@ -380,8 +380,8 @@ body, html {
 }
 
 .shape-3 {
-  width: 400px;
-  height: 400px;
+  width: 250px;
+  height: 250px;
   border-radius: 60% 40% 40% 60% / 55% 45% 55% 45%; /* Irregular blob shape */
   top: 70%;
   left: 50%;
@@ -389,28 +389,21 @@ body, html {
 }
 
 .shape-4 {
-  width: 350px;
-  height: 600px;
+  width: 200px;
+  height: 350px;
   border-radius: 50% 35% 65% 50%; /* Tall organic shape */
   top: 15%;
-  left: 80%;
+  left: 60%;
   animation-delay: 6s;
 }
 
 .shape-5 {
-  width: 600px;
-  height: 600px;
+  width: 350px;
+  height: 350px;
   border-radius: 35% 65% 60% 40% / 45% 35% 65% 55%; /* Irregular blob shape */
-  top: 80%;
+  top: 20%;
   left: 30%;
   animation-delay: 8s;
-}
-
-/* Content stays on top of the background */
-.content {
-  position: relative;
-  z-index: 1; /* Make sure content stays above background */
-  padding: 20px;
 }
 
 /* Define the keyframe animations for smoother and faster movement */
@@ -431,3 +424,10 @@ body, html {
     transform: translate(0, 0) scale(1);
   }
 }
+/* Content stays on top of the background */
+.content {
+  position: relative;
+  z-index: 1; /* Make sure content stays above background */
+  padding: 20px;
+}
+
